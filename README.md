@@ -18,7 +18,7 @@ Run synchronisation
 syncrypt.exe -i C:\docs -o C:\docs_encrypted -k C:\keys
 ```
 
-Refer to the [Wiki] for more options.
+Refer to the [Wiki](https://github.com/Gabisonfire/syncrypt/wiki) for more options.
 
 ## Built With
 
